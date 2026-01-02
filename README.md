@@ -28,11 +28,12 @@ This repository is designed for **students, career switchers, or anyone curious 
 
 ## 🧭 How To Use This Repository  
 
-1. Start with **01-Foundations** if you are new to IT and cybersecurity.  
-2. Progress step by step; consistency matters more than speed.  
-3. Explore hands-on labs in **03-Hands-On-Learning** to practice skills.  
-4. Learn about roles and certifications in **04-Career-Paths** and **05-Certifications-and-Resources**.  
-5. Read **06-My-Journey-and-Tips** for personal insights and practical advice.  
+Start with **01-Foundations** if you are new to IT and cybersecurity.  
+Move to **02-Core-Cybersecurity-Concepts** to understand essential security principles.  
+Progress step by step; consistency matters more than speed.  
+Explore hands-on labs in **03-Hands-On-Learning** to practice practical skills.  
+Learn about roles and certifications in **04-Career-Paths** and **05-Certifications-and-Resources**.  
+Read **06-My-Journey-and-Tips** for personal insights and practical advice.  
 
 ---
 
